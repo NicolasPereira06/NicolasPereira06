@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/NicolasPereira06">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasPereira06&show_icons=true&theme=dark&include_all_commits=true&count_private=true$&title_color=blue"/>
-  <img height="180em" width="450m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasPereira06&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="350m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasPereira06&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Nicolas-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" >
