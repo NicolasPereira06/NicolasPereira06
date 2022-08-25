@@ -5,8 +5,11 @@
 </p>
 
 <p align="left">
- :computer:  Tecnologias: <b>HTML, CSS, Python, JavaScript<b>
+  Algumas tecnologias e ferramentas que utilizo:
 </p>
+
+<p align="left"><b> HTML, CSS, JavaScript, TypeScript, Bootstrap, Framework Flask, Python e Java. </b></p>
+<p align="left"><b> Visual Studio Code, Net Beans, Canvas e Figma.</b></p>
 
 <br>
 
