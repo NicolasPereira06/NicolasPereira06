@@ -1,4 +1,4 @@
-<img src="./img/laptop-coffee.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="./img/lap.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
   Olá, me chamo Nicolas Bonifácio Pereira, atualmente estudo na Faculdade de Tecnologia de São José dos Campos no Brasil e curso <b>Análise e Desenvolvimento de Sistemas</b>, pretendo me tornar um desenvolvedor Full-Stack. <br><br>
