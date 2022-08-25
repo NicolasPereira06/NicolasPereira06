@@ -11,7 +11,7 @@
 <br>
 
 <p align="left">
- <b>Redes Sociais<b> ⤵️
+ <b>Redes Sociais:<b>
 </p>
 
 <p align="left">
