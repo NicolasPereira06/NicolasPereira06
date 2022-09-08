@@ -11,6 +11,8 @@
 <p align="left"><b> HTML, CSS, JavaScript, TypeScript, Bootstrap, Framework Flask, Python e Java. </b></p>
 <p align="left"><b> Visual Studio Code, Net Beans, Canvas e Figma.</b></p>
 
+<p align="left"><b> E-mail para contato: nicolas.bonifa@outlook.com </b></p>
+<p align="left"><b> Telefone para contato: (12) 98890-5634</b></p>
 <br>
 
 <p align="left">
