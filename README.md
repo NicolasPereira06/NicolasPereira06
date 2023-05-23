@@ -4,15 +4,6 @@
   Olá, me chamo Nicolas Bonifácio Pereira, atualmente estudo na Faculdade de Tecnologia de São José dos Campos no Brasil e curso Análise e Desenvolvimento de Sistemas, pretendo me tornar um desenvolvedor Full-Stack. <br><br>
 </p></b>
 
-<p align="left">
-  Algumas tecnologias e ferramentas que utilizo:
-</p>
-
-<p align="left"><b> HTML, CSS, JavaScript, TypeScript, Bootstrap, Framework Flask, Python e Java. </b></p>
-<p align="left"><b> Visual Studio Code, Net Beans, Canvas e Figma.</b></p>
-
-<br>
-
 <p align="left"><b> E-mail para contato:</b> nicolas.bonifa@outlook.com</p>
 <p align="left"><b> Telefone para contato:</b> (12) 98890-5634</b></p>
 <br>
