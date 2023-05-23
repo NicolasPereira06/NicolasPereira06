@@ -1,6 +1,8 @@
-<p align="left"> 
+<h2> Bem Vindo! </h2>
+
+<p align="left"><b> 
   Olá, me chamo Nicolas Bonifácio Pereira, atualmente estudo na Faculdade de Tecnologia de São José dos Campos no Brasil e curso Análise e Desenvolvimento de Sistemas, pretendo me tornar um desenvolvedor Full-Stack. <br><br>
-</p>
+</p></b>
 
 <p align="left">
   Algumas tecnologias e ferramentas que utilizo:
